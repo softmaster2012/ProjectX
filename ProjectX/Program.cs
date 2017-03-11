@@ -10,6 +10,23 @@ namespace ProjectX
     {
         static void Main(string[] args)
         {
+            BaseMenu bm = new BaseMenu();
+            AdminMenu am = new AdminMenu();
+            do
+            {
+                bm.Display();
+                switch (bm.Choice)
+                {
+                    case 1:
+                        am.Display();
+                        break;
+                    default:
+                        break;
+                }
+            }
+            while (bm.AllowContinue());
+
+            bm.Finish();
         }
     }
 }

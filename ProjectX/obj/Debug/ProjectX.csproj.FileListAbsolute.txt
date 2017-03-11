@@ -1,2 +1,8 @@
 D:\WorkPC\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
 D:\HomePC\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
+D:\KorshunovV\Work2\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
+D:\KorshunovV\Work2\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+D:\KorshunovV\Work2\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+D:\KorshunovV\Work2\ProjectX\ProjectX\obj\Debug\ProjectX.csprojResolveAssemblyReference.cache
+D:\KorshunovV\Work2\ProjectX\ProjectX\obj\Debug\ProjectX.exe
+D:\KorshunovV\Work2\ProjectX\ProjectX\obj\Debug\ProjectX.pdb
