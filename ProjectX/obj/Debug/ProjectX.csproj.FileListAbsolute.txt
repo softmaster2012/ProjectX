@@ -1,1 +1,2 @@
 D:\WorkPC\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
+D:\HomePC\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
